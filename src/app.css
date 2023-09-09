@@ -29,12 +29,6 @@
     /* Gecko Browsers */
 }
 
-
-:global(body) {
-    background-color: var(--bg);
-    font-family: "Fira Code", monospace;
-    letter-spacing: 0.1em; /* Adjust as needed */
-  }
 @keyframes fadeIn {
     0% {
         opacity: 0;
